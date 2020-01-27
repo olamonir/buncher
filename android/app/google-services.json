@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "487880347080",
+    "firebase_url": "https://buncher-8fde8.firebaseio.com",
+    "project_id": "buncher-8fde8",
+    "storage_bucket": "buncher-8fde8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487880347080:android:1f980b0d81e02b4afe04fd",
+        "android_client_info": {
+          "package_name": "com.tap.buncher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487880347080-fq6ov7ovk5a24d7rbkv90rh34gc5e6c5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tap.buncher",
+            "certificate_hash": "7e7e3d7e1eb539b386e01384f045cab5e67f8c00"
+          }
+        },
+        {
+          "client_id": "487880347080-gbf4nvu0grhss2an01184a2khsla3hef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCykLJo6_8lNSDT0Gcgikg7ECFQbh7u4zE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487880347080-gbf4nvu0grhss2an01184a2khsla3hef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
